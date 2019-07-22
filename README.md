@@ -82,4 +82,13 @@
 | Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
 | Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
 
+### Week VIII
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         |       |            |         |        |       | 
+| Morning code    |       |                                                                                                                                              |       | |    | 
+| Morning video   |  <a href="https://www.youtube.com/watch?v=nxF1AgTJdrs">Gradient Descent</a>                                                                        |                                                                                                                             |       |  |      | 
+| Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
+| Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
 
